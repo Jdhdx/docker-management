@@ -17,10 +17,14 @@ Screenshots
 <img width="341" height="458" alt="image" src="https://github.com/user-attachments/assets/53c36c72-7ce5-4e61-8576-3c1fd7bf573b" />
 Main menu — quick overview of available categories and actions.
 <img width="498" height="203" alt="image" src="https://github.com/user-attachments/assets/9354ba16-954a-41a3-ad32-0c8e8bd2590b" />
-
+Network Manager - all docker settings to manage network
 <img width="335" height="151" alt="image" src="https://github.com/user-attachments/assets/955e75a4-3490-49ad-ba99-925bd619d1ff" />
-
+Manage Volumes - all docker settings to manage volumes
 <img width="1214" height="364" alt="image" src="https://github.com/user-attachments/assets/fca40f29-0536-4345-ab7c-a374a49f8651" />
+Docker Compose - a ready profiles to use 
+
+
+
 Installation
 
 Open a terminal and run:
