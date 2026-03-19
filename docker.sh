@@ -332,7 +332,7 @@ docker_compo(){
 while true ;do
 	clear
 echo "=========docker compose========="
-echo "will in the docker compose we have like profiles is already ready to use so you can choose profile and start them "
+echo "Ready-to-use Docker Compose profiles"
 echo "NOTE: the docker compose default path we well use is in /mnt/srv/docker/comp/docker-compose.yml"
 echo "-----------------"
 echo "0.back to main"
