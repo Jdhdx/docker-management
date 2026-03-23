@@ -63,7 +63,9 @@ while true;do
 		0)
 			main_menu;;
 		00)
-			curl -fsSL https://get.docker.com | sh;;
+			curl -fsSL https://get.docker.com | sh
+			sudo usermod -aG docker $USER
+			sudo systemctl enable --now docker;;
 		1)
 		docker_run;;
 	2)
